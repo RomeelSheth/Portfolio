@@ -5,3 +5,6 @@ https://public.tableau.com/app/profile/romeel.sheth2988/viz/SouthwestAirlinesFli
 
 Fatal Police Shootings Dashboard
 https://public.tableau.com/app/profile/romeel.sheth/viz/PoliceKillingsDataVizGroupProject1/PoliceShootingStory
+
+COVID-19 Global Wave Dynamic Dashboard
+https://public.tableau.com/app/profile/romeel.sheth2988/viz/COVID-19GlobalWaveDynamicsDashboard/StoryCOVID
