@@ -1,0 +1,7 @@
+Tableau Visualizations
+
+Southwest Airlines Flight Analysis
+https://public.tableau.com/app/profile/romeel.sheth2988/viz/SouthwestAirlinesFlightAnalysis/SouthwestAirlinesAnalysis
+
+Fatal Police Shootings Dashboard
+https://public.tableau.com/app/profile/romeel.sheth/viz/PoliceKillingsDataVizGroupProject1/PoliceShootingStory
